@@ -1,0 +1,25 @@
+/**
+* Basic Style Sheet (Cascading Style Sheet)
+*/
+
+h1 { 
+    background-color: red;
+    color: white;
+ }
+ 
+ p {
+     text-align: center; 
+     color: blue;
+ }
+
+.content {
+    border: 1px solid grey;
+}
+
+.content p {
+     color: red;
+ }
+
+ #job {
+     color: green;
+ }
